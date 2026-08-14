@@ -1,21 +1,21 @@
 body {
-    background-color: #363636;
+    background-color: #cfeeec;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
 
 h1, h2 {
-    color: #ffd036;
+    color: #1f85d8;
     text-align: center;
     margin-top: 2em;
 }
 
 p {
-    color: #fff;
+    color: #000000;
 }
 
 span {
-    color: #ffd036;
+    color: #1f85d8;
     font-weight: 700;
 }
 
